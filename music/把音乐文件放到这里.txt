@@ -1,0 +1,2 @@
+请把 MP3 文件放在这个文件夹。
+然后在 public/content/music.md 的 audio 一行填写，例如：audio: /music/my-song.mp3
