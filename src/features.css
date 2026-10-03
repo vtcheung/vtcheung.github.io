@@ -1,0 +1,37 @@
+.album-grid button{border:0;padding:0;text-align:left;background:transparent;cursor:zoom-in;position:relative}
+.album-grid button span{position:absolute;bottom:14px;left:14px;color:var(--paper);font:11px 'DM Mono',monospace;letter-spacing:.06em;padding:7px 12px;border-radius:11px;background:rgba(42,36,29,.55);backdrop-filter:blur(6px)}
+
+.detail-page{padding:24px 0 98px}
+.detail-head{display:grid;grid-template-columns:340px 1fr;gap:56px;align-items:center;margin:32px 0 60px}
+.detail-head>img{width:100%;height:390px;object-fit:cover;border-radius:28px;box-shadow:var(--relief)}
+.detail-head h1{font:600 clamp(38px,5vw,64px)/1.12 Fraunces,'Noto Serif SC',serif;letter-spacing:-.02em;margin:0 0 18px}
+.detail-head p:last-child{font:15px/1.95 'Noto Serif SC',serif;color:var(--ink-2)}
+.album-desc{font:14px/1.9 'Noto Serif SC',serif;color:var(--ink-2);margin:16px 0 0;max-width:56ch;padding-left:14px;border-left:2px solid var(--line)}
+.big-play{border:0;background:var(--ink);color:var(--paper);border-radius:999px;padding:13px 20px;display:inline-flex;align-items:center;gap:8px;cursor:pointer;margin-top:14px;font-size:13px;box-shadow:var(--relief-sm);transition:.3s}
+.big-play:hover{background:var(--accent);transform:translateY(-2px)}
+
+.song-list{max-width:860px;margin:auto;border-top:1px solid var(--line)}
+.song-list button{width:100%;background:transparent;border:0;border-bottom:1px solid var(--line);padding:17px 10px;display:grid;grid-template-columns:50px 1fr 70px 25px;align-items:center;text-align:left;gap:8px;color:var(--ink);cursor:pointer;transition:.24s}
+.song-list button:hover{background:var(--paper);box-shadow:var(--relief-sm);border-radius:14px}
+.song-list span,.song-list em{font:11px 'DM Mono',monospace;font-style:normal;color:var(--muted)}
+.song-list b{display:block;font:600 17px Fraunces,'Noto Serif SC',serif}
+.song-list small{font-size:12px;color:var(--muted)}
+
+.yt-block{max-width:860px;margin:46px auto 0}
+.yt-head{display:flex;align-items:center;justify-content:space-between;gap:16px;border-top:1px solid var(--line);padding-top:24px}
+.yt-head .eyebrow{margin:0}
+.yt-link{color:#fff;background:#e53b2e;text-decoration:none;border-radius:999px;padding:11px 19px;display:inline-flex;align-items:center;gap:8px;font-size:13px;box-shadow:var(--relief-sm);transition:.3s}
+.yt-link:hover{background:#c22a1e;transform:translateY(-2px)}
+.yt-frame{margin-top:24px;border-radius:22px;overflow:hidden;box-shadow:var(--relief);aspect-ratio:16/9;background:#000}
+.yt-frame iframe{width:100%;height:100%;border:0;display:block}
+
+.quotes{max-width:760px;margin:auto}
+.quotes h2{font:600 31px Fraunces,'Noto Serif SC',serif;margin-bottom:26px;letter-spacing:-.02em}
+.quotes blockquote{font:20px/1.8 'Noto Serif SC',serif;color:var(--ink-2);border-left:3px solid var(--accent);padding:8px 0 8px 22px;margin:0 0 26px}
+
+@media(max-width:700px){
+  .detail-head{grid-template-columns:1fr;gap:26px;margin-bottom:44px}
+  .detail-head>img{height:300px}
+  .song-list button{grid-template-columns:36px 1fr 48px 20px}
+  .quotes blockquote{font-size:18px}
+}

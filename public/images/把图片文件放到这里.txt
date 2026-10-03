@@ -1,0 +1,2 @@
+请在这个文件夹内自行新建 travel 和 journal 子文件夹，放入 JPG、PNG 或 WebP 图片。
+在 Markdown 中填写路径，例如：image: /images/travel/kyoto.jpg
