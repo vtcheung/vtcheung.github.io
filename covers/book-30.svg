@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1100" viewBox="0 0 800 1100">
+<rect width="800" height="1100" fill="#3A5E50"/>
+<rect x="44" y="44" width="712" height="1012" fill="none" stroke="#F2ECDF" stroke-opacity="0.45" stroke-width="2"/>
+<rect x="60" y="60" width="680" height="980" fill="none" stroke="#F2ECDF" stroke-opacity="0.18" stroke-width="1"/>
+<g fill="#F2ECDF" text-anchor="middle" font-family="'Songti SC','Noto Serif SC','SimSun',serif" font-weight="600"><text x="400" y="520" font-size="78">围城</text></g>
+<text x="400" y="948" text-anchor="middle" fill="#F2ECDF" fill-opacity="0.78" font-size="30" letter-spacing="4" font-family="'Songti SC','Noto Serif SC','SimSun',serif">钱钟书</text>
+<line x1="330" y1="900" x2="470" y2="900" stroke="#F2ECDF" stroke-opacity="0.4" stroke-width="2"/>
+</svg>
