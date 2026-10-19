@@ -2,7 +2,7 @@
 title: 瞬間的シックスセンス
 subtitle: あいみょん · 2019 · 12 首
 cover: /images/journal/momentary-sixth-sense.jpg
-desc: あいみょん 2019 年的第二张专辑，12 首里有《マリーゴールド》《今夜このまま》，在轻快旋律背后藏着更细腻的观察与温柔。
+desc: 第六感就是最温柔的。
 ---
 ## Tracks
 ### 満月の夜なら

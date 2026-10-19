@@ -2,7 +2,7 @@
 title: 青春のエキサイトメント
 subtitle: あいみょん · 2017 · 11 首
 cover: /images/journal/excitement-of-youth.jpg
-desc: あいみょん 2017 年的首张录音室专辑，11 首把青春的莽撞与感伤唱得坦荡，《君はロックを聴かない》《生きていたんだよな》皆出于此。
+desc: 红砖就是最酷的
 ---
 ## Tracks
 ### 憧れてきたんだ

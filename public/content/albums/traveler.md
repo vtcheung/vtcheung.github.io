@@ -2,7 +2,7 @@
 title: Traveler
 subtitle: Official髭男dism · 2019 · 14 首
 cover: /images/journal/traveler.jpg
-desc: Official髭男dism 2019 年的首张正式专辑，14 首收录《Pretender》《宿命》《イエスタデイ》等热曲，以钢琴摇滚把日常与旅途唱成一场狂欢。
+desc: 以钢琴摇滚把日常与旅途唱成一场狂欢。
 ---
 ## Tracks
 ### イエスタデイ

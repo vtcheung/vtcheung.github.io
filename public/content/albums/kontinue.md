@@ -2,7 +2,7 @@
 title: Kontinue
 subtitle: 谢安琪 · 2014 · 11 首
 cover: /images/journal/kontinue.jpg
-desc: 谢安琪 2014 年的粤语专辑，11 首歌把社会关怀写进流畅旋律，《鸡蛋与羔羊》《独家村》《头盔》锋利而不失温度。
+desc: 那段年月有多好。
 ---
 ## Tracks
 ### C餐
